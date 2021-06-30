@@ -3,4 +3,4 @@ version: ${project.version}
 main: net.ryu.friendsystem.FriendSystemPlugin
 api-version: 1.16
 author: RyujiX
-description: a
+description: Simple friends system
